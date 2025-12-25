@@ -1,0 +1,6 @@
+@WebAPI_Repo__UOW__HostAddress = http://localhost:5238
+
+GET {{WebAPI_Repo__UOW__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
